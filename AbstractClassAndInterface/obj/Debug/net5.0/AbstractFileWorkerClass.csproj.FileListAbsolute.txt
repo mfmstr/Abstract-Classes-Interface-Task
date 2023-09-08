@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\net5.0\AbstractFileWorkerClass.exe
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\net5.0\AbstractFileWorkerClass.deps.json
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\net5.0\AbstractFileWorkerClass.runtimeconfig.json
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\net5.0\AbstractFileWorkerClass.runtimeconfig.dev.json
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\net5.0\AbstractFileWorkerClass.dll
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\bin\Debug\net5.0\AbstractFileWorkerClass.pdb
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\AbstractFileWorkerClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\AbstractFileWorkerClass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\AbstractFileWorkerClass.AssemblyInfo.cs
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\AbstractFileWorkerClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\AbstractFileWorkerClass.dll
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\refint\AbstractFileWorkerClass.dll
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\AbstractFileWorkerClass.pdb
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\AbstractFileWorkerClass.genruntimeconfig.cache
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\AbstractClassAndInterface\obj\Debug\net5.0\ref\AbstractFileWorkerClass.dll

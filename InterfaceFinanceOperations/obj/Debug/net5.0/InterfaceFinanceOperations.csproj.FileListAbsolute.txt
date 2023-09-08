@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\bin\Debug\net5.0\InterfaceFinanceOperations.exe
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\bin\Debug\net5.0\InterfaceFinanceOperations.deps.json
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\bin\Debug\net5.0\InterfaceFinanceOperations.runtimeconfig.json
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\bin\Debug\net5.0\InterfaceFinanceOperations.runtimeconfig.dev.json
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\bin\Debug\net5.0\InterfaceFinanceOperations.dll
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\bin\Debug\net5.0\InterfaceFinanceOperations.pdb
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\InterfaceFinanceOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\InterfaceFinanceOperations.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\InterfaceFinanceOperations.AssemblyInfo.cs
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\InterfaceFinanceOperations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\InterfaceFinanceOperations.dll
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\refint\InterfaceFinanceOperations.dll
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\InterfaceFinanceOperations.pdb
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\InterfaceFinanceOperations.genruntimeconfig.cache
+C:\Users\User\Desktop\AbstractClassAndInterface\AbstractClassAndInterface\InterfaceFinanceOperations\obj\Debug\net5.0\ref\InterfaceFinanceOperations.dll
